@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg903"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="eslabon_1.svg">
+  <defs
+     id="defs897" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="363.86052"
+     inkscape:cy="679.43239"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-intersection-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="30.245281,170.89096"
+       orientation="1,0"
+       id="guide1587"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60.703966,200.93283"
+       orientation="0,1"
+       id="guide1589"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60.703966,140.84909"
+       orientation="0,1"
+       id="guide1591"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="180.6742,191.63226"
+       orientation="1,0"
+       id="guide1593"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.24528,170.89096"
+       orientation="0,1"
+       id="guide1595"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata900">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.94654086;fill:#05fffe;fill-opacity:1;stroke:#010001;stroke-width:3.63340092;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 114.3125 364.9043 A 113.30274 111.72737 0 0 0 1.0097656 476.63281 A 113.30274 111.72737 0 0 0 114.3125 588.35938 L 114.3125 588.66211 C 114.3125 589.50155 114.98869 590.17578 115.82812 590.17578 L 681.34766 590.17578 C 682.18709 590.17578 682.86328 589.50155 682.86328 588.66211 L 682.86328 588.35938 A 113.30274 111.72738 0 0 0 796.16602 476.63281 A 113.30274 111.72738 0 0 0 682.86328 364.9043 A 113.30274 111.72738 0 0 0 681.6875 364.94531 C 681.57816 364.9204 681.46476 364.9043 681.34766 364.9043 L 115.82812 364.9043 C 115.69366 364.9043 115.56537 364.92836 115.44141 364.96094 A 113.30274 111.72737 0 0 0 114.3125 364.9043 z "
+       transform="scale(0.26458333)"
+       id="path1570" />
+    <ellipse
+       style="opacity:0.94654086;fill:#fffffe;fill-opacity:1;stroke:#010001;stroke-width:0.69412559;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1600"
+       cx="30.245281"
+       cy="126.10904"
+       rx="9.928853"
+       ry="9.9033222" />
+    <ellipse
+       style="opacity:0.94654086;fill:#fffffe;fill-opacity:1;stroke:#010001;stroke-width:0.69412559;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1600-3"
+       cx="180.67419"
+       cy="126.10904"
+       rx="9.928853"
+       ry="9.9033222" />
+  </g>
+</svg>

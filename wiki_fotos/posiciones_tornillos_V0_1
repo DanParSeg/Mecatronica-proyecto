@@ -1,0 +1,40 @@
+tornillo arriba_izq = -100, -35, -50 
+tornillo abajo_izq
+tornillo arriba der
+tornillo abajo der
+
+
+
+// Hay que fijar el tamaño concreto de los tornillos, de momento a 6/11/21
+// las medidas son:
+
+	radio:10
+	altura:120 // esto será lo que cambie a medida que cojamos las medidas oportunas de los sensores y actuadores
+
+
+ruedas circulares, podemos usar para que la esfera no se mueva si no que tenga un pequeño apoyo. 
+
+Para hacer las ruedas motrices, mirar conexion con servos, y dibujo cualquiera
+
+mirar tamaño de los servos juntos para crear un modelaje 3D acorde, algo sencillo para hacer un hueco a los tornillos (mirar que tornillos hay que utilizar) pero no hace falta dibujarlos.
+
+
+
+Cambiar la rueda fija por dos piezas, "La esfera un poco más pequeña que que el rectanculo"
+Hacer un cut con otra esfera al cuadrado para que "encaje"
+
+Mirar hueco de la fpga, mirar cuanto mas grande debe ser
+
+Mirar hueco para poner las pilas (arriba motores)
+
+y poco mas
+
+
+Rueda aprox 0.5cm
+diametro 6 cm
+ancho 0.5
+
+
+Sujeccion motores, quitar parte de abajo (un corte de nada para la parte de abajo)
+
+QUitar la sujeccion de la fpga para poner tornillos (medir distancias y eso (dos en diagonal) (al lado del interruptor y contrario))
