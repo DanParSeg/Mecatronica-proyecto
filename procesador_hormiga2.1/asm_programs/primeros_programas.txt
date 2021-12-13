@@ -1,0 +1,90 @@
+
+# Primeros programas
+
+`addi 3
+copy R0R2
+zero
+addi 2
+copy R0R1
+add 0
+zero
+
+23 82 30 22 81 00 30
+R0 ahora vale 5!!!
+`
+
+
+
+programa para probar addi y zero
+`
+hace addi y zero de los numeros del 0 al F
+20 30 21 30 22 30 23 30 24 30 25 30
+26 30 27 30 28 30 29 30 2a 30 2b 30
+2c 30 2d 30 2e 30 2f 30
+`
+programa para probar copy
+`
+addi 9
+copy R0R0
+copy R0R1
+copy R0R2
+copy R0R3
+zero 0
+
+copy R1R0
+zero
+copy R2R0
+zero
+copy R3R0
+zero
+29 80 81 82 83 30     84 30 88 30 8c 30
+`
+prueba los shift
+`
+21 2f 60 60 60 70 70 70 70 70 70 70 70
+`
+prueba resta
+`
+30 25 81 30 23 82 10 30 31 32 
+`
+prueba and / nand
+`
+30 25 81 30 23 82 40 30 31 32
+30 25 81 30 23 82 50 30 31 32
+`
+prueba jump
+`
+zero R0 30
+addi F 2F #muestro el valor F en los led
+zero R0 30
+addi 0 20 #direccion 0
+copy 01 81 #ahora en R1 esta la direccion
+jump 8 b8 #salta a la direccion R1 independientemente de las flags
+30 2F 30 20 81 b8
+`
+fibonacci
+
+`
+zero R0 30
+zero R1 31
+zero R2 32
+zero R3 33
+addi 1 21
+copy R0 R3 83
+
+loop:(6)
+copy R3 R1 8d
+add 00
+copy R1 R2 86
+copy R0 R3 83
+
+zero R0 30
+addi loop(6) 26
+copy R0 R1 81
+jump 8 b8
+
+30 31 32 33 21 83 
+8d 00 86 83
+30 26 81 b8
+`
+
